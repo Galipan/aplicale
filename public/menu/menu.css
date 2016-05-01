@@ -22,6 +22,12 @@ body {
   background-color: #282d2a;
   display: inline-block;
 }
+#top #top-left img {
+  padding-left: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  width: 210px;
+}
 #top #top-right {
   float: right;
   position: relative;
